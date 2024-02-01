@@ -1,0 +1,28 @@
+.conatiner {
+    display: flex;
+    justify-content: center;
+}
+
+table {
+    border-collapse: collapse;
+    border: 2px solid black;
+    letter-spacing: 1px;
+    font-size: 1.5rem;
+    background-color: rgb(18, 18, 18);
+    color: rgb(228, 10, 54);
+}
+
+th{
+    border: 1px solid black;
+    padding: 10px;
+    background-color: rgb(35, 34, 34);
+}
+
+td{
+    border: 1px solid black;
+    padding: 10px;
+    
+}
+tr:hover{
+    background-color: rgb(10, 212, 212);
+}
